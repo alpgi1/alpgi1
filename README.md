@@ -1,7 +1,7 @@
 # Hi there, I'm Alpgiray! 👋
 
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=39FF14&center=false&vCenter=false&width=500&lines=Computer+Engineering+Student+%40+TUM;Tech+Enthusiast+%26+Builder;Turning+ideas+into+scalable+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=39FF14&center=false&vCenter=false&width=500&lines=Computer+Science+Student+%40+TUM;Tech+Enthusiast+%26+Builder;Turning+ideas+into+scalable+apps" alt="Typing SVG" />
 </div>
 
 I'm a **Computer Science student at the Technical University of Munich (TUM)**. I am a tech enthusiast who loves building software, experimenting with new frameworks, and bringing ideas to life through code. Rather than just learning theory, I focus on hands-on development and building real-world projects.
