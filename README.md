@@ -239,8 +239,6 @@ progressive overload engine built around RPE instead of fixed percentage tables.
 
 ### `~/contact`
 
-Based in Munich. Looking for a 13 to 17 week full-time internship from May 2027.
-
 <a href="https://linkedin.com/in/alpgiray-celik">
   <img src="https://img.shields.io/badge/Let's_talk-4FD1C5?style=for-the-badge&logo=linkedin&logoColor=0d1117" />
 </a>
